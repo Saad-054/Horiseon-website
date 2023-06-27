@@ -2,7 +2,7 @@
 ## Description
 My motivation was to enhance the existing Horiseon marketing website to ensure all the links were functioning correctly, and that the website would be deployed at live URL without any errors.
 
-I wanted to build this project to enhance my skills in coding as a web developer. The project involved a variety of tasks including updating the HTML and CSS coding to meet best practices, updating the CSS coding to follow semantic structure, adding commenting, finding errors, and using the GitHub Repository.
+I wanted to build this project to improve my skills in coding as a web developer. The project involved a variety of tasks including updating the HTML and CSS coding to meet best practices, updating the CSS coding to follow semantic structure, adding commenting, finding errors, and using the GitHub Repository.
 
 My goals of the project were completed, and I was able to ensure the website loaded effectively, updating the coding on the CSS and HTML, and produced the links using GitHub.
 
