@@ -58,5 +58,5 @@ SOFTWARE.
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus)
 
-![Static Badge](https://img.shields.io/badge/Thankyou_for_visiting-redblue)
+![Static Badge](https://img.shields.io/badge/Thankyou_for_visiting-red)
 
