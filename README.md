@@ -22,7 +22,8 @@ All in all, the refactoring of the Horiseon marketing website was a unique proje
 - undertook refactoring using Visual Studio COde
 
 ## Usage
-![website_image](assets/1-html-css-git-challenge-demo.png)
+
+![website_image](./assets/images/01-html-css-git-challenge-demo.png)
 
 ## Credits
 There were no collaborators for this project.
